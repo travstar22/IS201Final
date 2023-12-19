@@ -1,0 +1,42 @@
+
+/* Ocean theme styles */
+body {
+    background-color: #e0f7fa; /* Light blue background color */
+    font-family: 'Courier New', Courier, monospace; /* Changed to a font that might be used in oceanic themes */
+    color: #0277bd; /* Darker blue font color for better contrast */
+}
+
+header, footer {
+    background-color: #01579b; /* Ocean blue background */
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* ... existing styles ... */
+
+#about-author {
+    background-color: #b3e5fc; /* Lighter blue background for the "About the Author" section */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#about-author a {
+    color: #01579b; /* Ocean blue color for links */
+    text-decoration: underline;
+}
+.professional-portfolio-link {
+    text-decoration: underline; /* This will underline the link */
+}
+
+.styled-div {
+    /* Example of a styled div */
+    margin: 10px 0;
+    padding: 20px;
+    background-color: #81d4fa; /* Light blue background for divs */
+    border: 1px solid #29b6f6; /* Border color */
+    /* Positioning and more styles */
+}
+
+/* Add specific styles for font color, font family etc. */
+
